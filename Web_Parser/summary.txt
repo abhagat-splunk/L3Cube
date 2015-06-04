@@ -1,0 +1,17 @@
+Browser Count : 
+************
+Chrome : 200
+Safari : 304
+Opera : 65
+Others : 2409
+************
+Total Links Hit : 2778
+************
+GET : 2608
+POST : 158
+HEAD : 12
+************
+Links Hit 
+During Day : 93%
+During Night : 6%
+************
