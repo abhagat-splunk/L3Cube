@@ -1,0 +1,77 @@
+Headers: {'content-length': '160', 'accept-ranges': 'bytes', 'server': 'Apache/2.0.40 (Red Hat Linux)', 'last-modified': 'Mon, 08 Mar 2004 20:27:54 GMT', 'connection': 'close', 'etag': '"46eed-a0-800ce680"', 'date': 'Sat, 20 Nov 2004 10:21:06 GMT', 'content-type': 'text/html; charset=ISO-8859-1'}
+Body: <html>
+<head>
+<title>
+Ronnie sahlbergs Websida
+</title>
+</head>
+<body>
+<a href="./Websidan/index.html">Familjen Sahlbergs Websida</a>
+</body>
+</html>
+
+Version: 1.1
+
+Headers: {'content-length': '416', 'accept-ranges': 'bytes', 'server': 'Apache/2.0.40 (Red Hat Linux)', 'last-modified': 'Sun, 14 Mar 2004 22:05:48 GMT', 'connection': 'close', 'etag': '"46a8e-1a0-91374700"', 'date': 'Sat, 20 Nov 2004 10:21:09 GMT', 'content-type': 'text/html; charset=ISO-8859-1'}
+Body: <html>
+<head>
+
+<title>Ellies Dagbok</title>
+</head>
+<body background="../images/bg2.jpg">
+<a href="../index.html">[tillbaka till hemsidan]</a><br><br>
+
+<h3>Familjen Sahlbergs Dagbok</h3>
+
+
+<a href="./2004/dagbok.html">2004</a><br>
+<hr>
+<h4>Arkiv</h4>
+
+<a href="./2001/dagbok.html">2001</a><br>
+<a href="./2002/dagbok.html">2002</a><br>
+<a href="./2003/dagbok.html">2003</a><br>
+
+</body>
+</html>
+
+Version: 1.1
+
+Headers: {'content-length': '160', 'accept-ranges': 'bytes', 'server': 'Apache/2.0.40 (Red Hat Linux)', 'last-modified': 'Mon, 08 Mar 2004 20:27:54 GMT', 'connection': 'close', 'etag': '"46eed-a0-800ce680"', 'date': 'Sat, 20 Nov 2004 10:21:06 GMT', 'content-type': 'text/html; charset=ISO-8859-1'}
+Body: <html>
+<head>
+<title>
+Ronnie sahlbergs Websida
+</title>
+</head>
+<body>
+<a href="./Websidan/index.html">Familjen Sahlbergs Websida</a>
+</body>
+</html>
+
+Version: 1.1
+
+Headers: {'content-length': '416', 'accept-ranges': 'bytes', 'server': 'Apache/2.0.40 (Red Hat Linux)', 'last-modified': 'Sun, 14 Mar 2004 22:05:48 GMT', 'connection': 'close', 'etag': '"46a8e-1a0-91374700"', 'date': 'Sat, 20 Nov 2004 10:21:09 GMT', 'content-type': 'text/html; charset=ISO-8859-1'}
+Body: <html>
+<head>
+
+<title>Ellies Dagbok</title>
+</head>
+<body background="../images/bg2.jpg">
+<a href="../index.html">[tillbaka till hemsidan]</a><br><br>
+
+<h3>Familjen Sahlbergs Dagbok</h3>
+
+
+<a href="./2004/dagbok.html">2004</a><br>
+<hr>
+<h4>Arkiv</h4>
+
+<a href="./2001/dagbok.html">2001</a><br>
+<a href="./2002/dagbok.html">2002</a><br>
+<a href="./2003/dagbok.html">2003</a><br>
+
+</body>
+</html>
+
+Version: 1.1
