@@ -1,0 +1,119 @@
+Method is GET, therefore no body.
+Headers: {'accept-language': 'en', 'accept-encoding': 'deflate, gzip, x-gzip, identity, *;q=0', 'connection': 'Keep-Alive', 'accept': 'application/x-shockwave-flash,text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,video/x-mng,image/png,image/jpeg,image/gif;q=0.2,text/css,*/*;q=0.1', 'user-agent': 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.11  [en]', 'accept-charset': 'windows-1252, utf-8, utf-16, iso-8859-1;q=0.6, *;q=0.1', 'host': '10.1.1.1'}
+URI: /
+Method: GET
+Version: 1.1
+
+Method is GET, therefore no body.
+Headers: {'accept-language': 'en', 'accept-encoding': 'deflate, gzip, x-gzip, identity, *;q=0', 'connection': 'Keep-Alive, TE', 'accept': 'application/x-shockwave-flash,text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,video/x-mng,image/png,image/jpeg,image/gif;q=0.2,text/css,*/*;q=0.1', 'user-agent': 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.11  [en]', 'accept-charset': 'windows-1252, utf-8, utf-16, iso-8859-1;q=0.6, *;q=0.1', 'host': '10.1.1.1', 'referer': 'http://10.1.1.1/', 'te': 'deflate, gzip, chunked, identity, trailers'}
+URI: /Websidan/index.html
+Method: GET
+Version: 1.1
+
+Method is GET, therefore no body.
+Headers: {'accept-language': 'en', 'accept-encoding': 'deflate, gzip, x-gzip, identity, *;q=0', 'connection': 'Keep-Alive, TE', 'accept': 'application/x-shockwave-flash,text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,video/x-mng,image/png,image/jpeg,image/gif;q=0.2,text/css,*/*;q=0.1', 'user-agent': 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.11  [en]', 'accept-charset': 'windows-1252, utf-8, utf-16, iso-8859-1;q=0.6, *;q=0.1', 'host': '10.1.1.1', 'referer': 'http://10.1.1.1/Websidan/index.html', 'te': 'deflate, gzip, chunked, identity, trailers'}
+URI: /Websidan/images/bg2.jpg
+Method: GET
+Version: 1.1
+
+Method is GET, therefore no body.
+Headers: {'accept-language': 'en', 'accept-encoding': 'deflate, gzip, x-gzip, identity, *;q=0', 'connection': 'Keep-Alive, TE', 'accept': 'application/x-shockwave-flash,text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,video/x-mng,image/png,image/jpeg,image/gif;q=0.2,text/css,*/*;q=0.1', 'user-agent': 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.11  [en]', 'accept-charset': 'windows-1252, utf-8, utf-16, iso-8859-1;q=0.6, *;q=0.1', 'host': '10.1.1.1', 'referer': 'http://10.1.1.1/Websidan/index.html', 'te': 'deflate, gzip, chunked, identity, trailers'}
+URI: /Websidan/images/sydney.jpg
+Method: GET
+Version: 1.1
+
+Method is GET, therefore no body.
+Headers: {'accept-language': 'en', 'accept-encoding': 'deflate, gzip, x-gzip, identity, *;q=0', 'connection': 'Keep-Alive, TE', 'accept': 'application/x-shockwave-flash,text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,video/x-mng,image/png,image/jpeg,image/gif;q=0.2,text/css,*/*;q=0.1', 'user-agent': 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.11  [en]', 'accept-charset': 'windows-1252, utf-8, utf-16, iso-8859-1;q=0.6, *;q=0.1', 'host': '10.1.1.1', 'referer': 'http://10.1.1.1/Websidan/index.html', 'te': 'deflate, gzip, chunked, identity, trailers'}
+URI: /Websidan/dagbok/dagbok.html
+Method: GET
+Version: 1.1
+
+Method is GET, therefore no body.
+Headers: {'accept-language': 'en', 'accept-encoding': 'deflate, gzip, x-gzip, identity, *;q=0', 'connection': 'Keep-Alive, TE', 'accept': 'application/x-shockwave-flash,text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,video/x-mng,image/png,image/jpeg,image/gif;q=0.2,text/css,*/*;q=0.1', 'user-agent': 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.11  [en]', 'accept-charset': 'windows-1252, utf-8, utf-16, iso-8859-1;q=0.6, *;q=0.1', 'host': '10.1.1.1', 'referer': 'http://10.1.1.1/Websidan/dagbok/dagbok.html', 'te': 'deflate, gzip, chunked, identity, trailers'}
+URI: /Websidan/dagbok/2004/dagbok.html
+Method: GET
+Version: 1.1
+
+Method is GET, therefore no body.
+Headers: {'accept-language': 'en', 'accept-encoding': 'deflate, gzip, x-gzip, identity, *;q=0', 'connection': 'Keep-Alive, TE', 'accept': 'application/x-shockwave-flash,text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,video/x-mng,image/png,image/jpeg,image/gif;q=0.2,text/css,*/*;q=0.1', 'user-agent': 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.11  [en]', 'accept-charset': 'windows-1252, utf-8, utf-16, iso-8859-1;q=0.6, *;q=0.1', 'host': '10.1.1.1', 'referer': 'http://10.1.1.1/Websidan/dagbok/2004/dagbok.html', 'te': 'deflate, gzip, chunked, identity, trailers'}
+URI: /Websidan/dagbok/2004/28/dagbok.html
+Method: GET
+Version: 1.1
+
+Method is GET, therefore no body.
+Headers: {'accept-language': 'en', 'accept-encoding': 'deflate, gzip, x-gzip, identity, *;q=0', 'connection': 'Keep-Alive, TE', 'accept': 'application/x-shockwave-flash,text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,video/x-mng,image/png,image/jpeg,image/gif;q=0.2,text/css,*/*;q=0.1', 'user-agent': 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.11  [en]', 'accept-charset': 'windows-1252, utf-8, utf-16, iso-8859-1;q=0.6, *;q=0.1', 'host': '10.1.1.1', 'referer': 'http://10.1.1.1/Websidan/dagbok/2004/28/dagbok.html', 'te': 'deflate, gzip, chunked, identity, trailers'}
+URI: /Websidan/2004-07-SeaWorld/320/DSC07858.JPG
+Method: GET
+Version: 1.1
+
+Method is GET, therefore no body.
+Headers: {'accept-language': 'en', 'accept-encoding': 'deflate, gzip, x-gzip, identity, *;q=0', 'connection': 'Keep-Alive, TE', 'accept': 'application/x-shockwave-flash,text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,video/x-mng,image/png,image/jpeg,image/gif;q=0.2,text/css,*/*;q=0.1', 'user-agent': 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.11  [en]', 'accept-charset': 'windows-1252, utf-8, utf-16, iso-8859-1;q=0.6, *;q=0.1', 'host': '10.1.1.1', 'referer': 'http://10.1.1.1/Websidan/dagbok/2004/28/dagbok.html', 'te': 'deflate, gzip, chunked, identity, trailers'}
+URI: /Websidan/2004-07-SeaWorld/320/DSC07859.JPG
+Method: GET
+Version: 1.1
+
+Method is GET, therefore no body.
+Headers: {'accept-language': 'en', 'accept-encoding': 'deflate, gzip, x-gzip, identity, *;q=0', 'connection': 'Keep-Alive, TE', 'accept': 'application/x-shockwave-flash,text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,video/x-mng,image/png,image/jpeg,image/gif;q=0.2,text/css,*/*;q=0.1', 'user-agent': 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.11  [en]', 'accept-charset': 'windows-1252, utf-8, utf-16, iso-8859-1;q=0.6, *;q=0.1', 'host': '10.1.1.1', 'referer': 'http://10.1.1.1/Websidan/dagbok/2004/28/dagbok.html', 'te': 'deflate, gzip, chunked, identity, trailers'}
+URI: /Websidan/2004-07-SeaWorld/fullsize/DSC07858.JPG
+Method: GET
+Version: 1.1
+
+Method is GET, therefore no body.
+Headers: {'accept-language': 'en', 'accept-encoding': 'deflate, gzip, x-gzip, identity, *;q=0', 'connection': 'Keep-Alive', 'accept': 'application/x-shockwave-flash,text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,video/x-mng,image/png,image/jpeg,image/gif;q=0.2,text/css,*/*;q=0.1', 'user-agent': 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.11  [en]', 'accept-charset': 'windows-1252, utf-8, utf-16, iso-8859-1;q=0.6, *;q=0.1', 'host': '10.1.1.1'}
+URI: /
+Method: GET
+Version: 1.1
+
+Method is GET, therefore no body.
+Headers: {'accept-language': 'en', 'accept-encoding': 'deflate, gzip, x-gzip, identity, *;q=0', 'connection': 'Keep-Alive, TE', 'accept': 'application/x-shockwave-flash,text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,video/x-mng,image/png,image/jpeg,image/gif;q=0.2,text/css,*/*;q=0.1', 'user-agent': 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.11  [en]', 'accept-charset': 'windows-1252, utf-8, utf-16, iso-8859-1;q=0.6, *;q=0.1', 'host': '10.1.1.1', 'referer': 'http://10.1.1.1/', 'te': 'deflate, gzip, chunked, identity, trailers'}
+URI: /Websidan/index.html
+Method: GET
+Version: 1.1
+
+Method is GET, therefore no body.
+Headers: {'accept-language': 'en', 'accept-encoding': 'deflate, gzip, x-gzip, identity, *;q=0', 'connection': 'Keep-Alive, TE', 'accept': 'application/x-shockwave-flash,text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,video/x-mng,image/png,image/jpeg,image/gif;q=0.2,text/css,*/*;q=0.1', 'user-agent': 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.11  [en]', 'accept-charset': 'windows-1252, utf-8, utf-16, iso-8859-1;q=0.6, *;q=0.1', 'host': '10.1.1.1', 'referer': 'http://10.1.1.1/Websidan/index.html', 'te': 'deflate, gzip, chunked, identity, trailers'}
+URI: /Websidan/images/bg2.jpg
+Method: GET
+Version: 1.1
+
+Method is GET, therefore no body.
+Headers: {'accept-language': 'en', 'accept-encoding': 'deflate, gzip, x-gzip, identity, *;q=0', 'connection': 'Keep-Alive, TE', 'accept': 'application/x-shockwave-flash,text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,video/x-mng,image/png,image/jpeg,image/gif;q=0.2,text/css,*/*;q=0.1', 'user-agent': 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.11  [en]', 'accept-charset': 'windows-1252, utf-8, utf-16, iso-8859-1;q=0.6, *;q=0.1', 'host': '10.1.1.1', 'referer': 'http://10.1.1.1/Websidan/index.html', 'te': 'deflate, gzip, chunked, identity, trailers'}
+URI: /Websidan/images/sydney.jpg
+Method: GET
+Version: 1.1
+
+Method is GET, therefore no body.
+Headers: {'accept-language': 'en', 'accept-encoding': 'deflate, gzip, x-gzip, identity, *;q=0', 'connection': 'Keep-Alive, TE', 'accept': 'application/x-shockwave-flash,text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,video/x-mng,image/png,image/jpeg,image/gif;q=0.2,text/css,*/*;q=0.1', 'user-agent': 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.11  [en]', 'accept-charset': 'windows-1252, utf-8, utf-16, iso-8859-1;q=0.6, *;q=0.1', 'host': '10.1.1.1', 'referer': 'http://10.1.1.1/Websidan/index.html', 'te': 'deflate, gzip, chunked, identity, trailers'}
+URI: /Websidan/dagbok/dagbok.html
+Method: GET
+Version: 1.1
+
+Method is GET, therefore no body.
+Headers: {'accept-language': 'en', 'accept-encoding': 'deflate, gzip, x-gzip, identity, *;q=0', 'connection': 'Keep-Alive, TE', 'accept': 'application/x-shockwave-flash,text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,video/x-mng,image/png,image/jpeg,image/gif;q=0.2,text/css,*/*;q=0.1', 'user-agent': 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.11  [en]', 'accept-charset': 'windows-1252, utf-8, utf-16, iso-8859-1;q=0.6, *;q=0.1', 'host': '10.1.1.1', 'referer': 'http://10.1.1.1/Websidan/dagbok/dagbok.html', 'te': 'deflate, gzip, chunked, identity, trailers'}
+URI: /Websidan/dagbok/2004/dagbok.html
+Method: GET
+Version: 1.1
+
+Method is GET, therefore no body.
+Headers: {'accept-language': 'en', 'accept-encoding': 'deflate, gzip, x-gzip, identity, *;q=0', 'connection': 'Keep-Alive, TE', 'accept': 'application/x-shockwave-flash,text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,video/x-mng,image/png,image/jpeg,image/gif;q=0.2,text/css,*/*;q=0.1', 'user-agent': 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.11  [en]', 'accept-charset': 'windows-1252, utf-8, utf-16, iso-8859-1;q=0.6, *;q=0.1', 'host': '10.1.1.1', 'referer': 'http://10.1.1.1/Websidan/dagbok/2004/dagbok.html', 'te': 'deflate, gzip, chunked, identity, trailers'}
+URI: /Websidan/dagbok/2004/28/dagbok.html
+Method: GET
+Version: 1.1
+
+Method is GET, therefore no body.
+Headers: {'accept-language': 'en', 'accept-encoding': 'deflate, gzip, x-gzip, identity, *;q=0', 'connection': 'Keep-Alive, TE', 'accept': 'application/x-shockwave-flash,text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,video/x-mng,image/png,image/jpeg,image/gif;q=0.2,text/css,*/*;q=0.1', 'user-agent': 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.11  [en]', 'accept-charset': 'windows-1252, utf-8, utf-16, iso-8859-1;q=0.6, *;q=0.1', 'host': '10.1.1.1', 'referer': 'http://10.1.1.1/Websidan/dagbok/2004/28/dagbok.html', 'te': 'deflate, gzip, chunked, identity, trailers'}
+URI: /Websidan/2004-07-SeaWorld/320/DSC07858.JPG
+Method: GET
+Version: 1.1
+
+Method is GET, therefore no body.
+Headers: {'accept-language': 'en', 'accept-encoding': 'deflate, gzip, x-gzip, identity, *;q=0', 'connection': 'Keep-Alive, TE', 'accept': 'application/x-shockwave-flash,text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,video/x-mng,image/png,image/jpeg,image/gif;q=0.2,text/css,*/*;q=0.1', 'user-agent': 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.11  [en]', 'accept-charset': 'windows-1252, utf-8, utf-16, iso-8859-1;q=0.6, *;q=0.1', 'host': '10.1.1.1', 'referer': 'http://10.1.1.1/Websidan/dagbok/2004/28/dagbok.html', 'te': 'deflate, gzip, chunked, identity, trailers'}
+URI: /Websidan/2004-07-SeaWorld/320/DSC07859.JPG
+Method: GET
+Version: 1.1
+
+Method is GET, therefore no body.
+Headers: {'accept-language': 'en', 'accept-encoding': 'deflate, gzip, x-gzip, identity, *;q=0', 'connection': 'Keep-Alive, TE', 'accept': 'application/x-shockwave-flash,text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,video/x-mng,image/png,image/jpeg,image/gif;q=0.2,text/css,*/*;q=0.1', 'user-agent': 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.11  [en]', 'accept-charset': 'windows-1252, utf-8, utf-16, iso-8859-1;q=0.6, *;q=0.1', 'host': '10.1.1.1', 'referer': 'http://10.1.1.1/Websidan/dagbok/2004/28/dagbok.html', 'te': 'deflate, gzip, chunked, identity, trailers'}
+URI: /Websidan/2004-07-SeaWorld/fullsize/DSC07858.JPG
+Method: GET
+Version: 1.1
